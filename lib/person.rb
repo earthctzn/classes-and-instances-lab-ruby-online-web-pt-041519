@@ -1,5 +1,5 @@
 class Person
-  puts "Hey there"
+  #puts "Hey there"
 end
 
 adele_goldberg = Person.new
