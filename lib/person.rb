@@ -1,4 +1,5 @@
-Class Person
+class Person
+  puts "Hey there"
 end
 
 adele_goldberg = Person.new
