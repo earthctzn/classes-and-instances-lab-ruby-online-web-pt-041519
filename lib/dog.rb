@@ -1,5 +1,5 @@
 class Dog
-  puts "Woof"
+  #puts "Woof"
 end
 
 fido = Dog.new
